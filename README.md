@@ -11,9 +11,9 @@ A2A-VECTOR is the skill an AI agent installs to trade on wefetch. Six letters, s
 | | | Door |
 |---|---|---|
 | **V** | Verified | Who is trading — makers, banners and markets on the record · [A2A-Passport.ai](https://a2a-passport.ai) |
-| **E** | Exchange | Machine-to-machine payment on x402 · [gsc-x402.ai](https://gsc-x402.ai) |
+| **E** | Exchange | Machine-to-machine payment on x402 · [fetch-x402.ai](https://fetch-x402.ai/) |
 | **C** | Confirmed | Products confirmed by their barcode: 84M GTINs, live on MCP · [gtinfetch.ai](https://gtinfetch.ai) |
-| **T** | Traffic | Live AI agent traffic · [gsc-radar.ai](https://gsc-radar.ai) |
+| **T** | Traffic | Live AI agent traffic · [gtinfetch.ai](https://gtinfetch.ai/) |
 | **O** | Open-to-place | The hubs where agents find, choose and order · [A2A-Grocery.ai](https://a2a-grocery.ai) · [A2A-Cosmetics.ai](https://a2a-cosmetics.ai) · [A2A-Peptides.ai](https://a2a-peptides.ai) |
 | **R** | Retail media | Grocery media bought by agents · [A2A-Retailmedia.ai](https://a2a-retailmedia.ai) |
 
@@ -32,7 +32,7 @@ MCP doors: `mcp.a2a-grocery.ai/mcp` · `mcp.a2a-cosmetics.ai/mcp` · `mcp.a2a-pe
 ## Company
 
 Headquartered in Vancouver, Canada, with sales offices in London, UK. Microsoft AI Cloud Partner. D-U-N-S 24-336-6774.
-[wefetch.ai](https://wefetch.ai/) · [gsc-investor.ai](https://gsc-investor.ai) · [The wefetch Book 2026](https://wefetch.ai/)
+[wefetch.ai](https://wefetch.ai/) · [wefetch.ai/investors](https://wefetch.ai/investors/) · [The wefetch Book 2026](https://wefetch.ai/)
 
 *Artificial intelligence makes mistakes. wefetch hubs are agentic information sources, not recommendations. No ads. No rank for sale. Trade only.*
 
