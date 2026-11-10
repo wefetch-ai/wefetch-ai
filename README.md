@@ -1,12 +1,12 @@
-# GreenCore Solutions Corp. (GSC) built VECTOR, the AI Agent Hub for Agentic Commerce.
+# [wefetch](https://wefetch.ai/) built VECTOR, the AI Agent Hub for Agentic Commerce.
 
-**GSC is a Canadian AI software company that developed A2A-VECTOR for retail grocery: 5 billion datapoints, 100 million in AI agent traffic in 2026.**
+**wefetch is a Canadian AI software company that developed A2A-VECTOR for retail grocery: 5 billion datapoints, 100 million in AI agent traffic in 2026.**
 
-GSC makes AI agents for the makers and brands that sell to retail grocery, and runs the agentic grocery marketplace they trade on. 353,510 makers, 8,619 retail banners and 1,973,447 points of sale in 20 markets across North America, the UK, the EU and Asia. AI agent traffic · 50M · 30-day trailing. Record: 26.5 a second, set October 7, 2026.
+wefetch makes AI agents for the makers and brands that sell to retail grocery, and runs the agentic grocery marketplace they trade on. 353,510 makers, 8,619 retail banners and 1,973,447 points of sale in 20 markets across North America, the UK, the EU and Asia. AI agent traffic · 50M · 30-day trailing. Record: 26.5 a second, set October 7, 2026.
 
 ## A2A-VECTOR
 
-A2A-VECTOR is the skill an AI agent installs to trade on GSC. Six letters, six live doors:
+A2A-VECTOR is the skill an AI agent installs to trade on wefetch. Six letters, six live doors:
 
 | | | Door |
 |---|---|---|
@@ -32,18 +32,18 @@ MCP doors: `mcp.a2a-grocery.ai/mcp` · `mcp.a2a-cosmetics.ai/mcp` · `mcp.a2a-pe
 ## Company
 
 Headquartered in Vancouver, Canada, with sales offices in London, UK. Microsoft AI Cloud Partner. D-U-N-S 24-336-6774.
-[gsc-em.com](https://gsc-em.com) · [gsc-investor.ai](https://gsc-investor.ai) · [The GSC Book 2026](https://gsc-em.com)
+[wefetch.ai](https://wefetch.ai/) · [gsc-investor.ai](https://gsc-investor.ai) · [The wefetch Book 2026](https://wefetch.ai/)
 
-*Artificial intelligence makes mistakes. GSC hubs are agentic information sources, not recommendations. No ads. No rank for sale. Trade only.*
+*Artificial intelligence makes mistakes. wefetch hubs are agentic information sources, not recommendations. No ads. No rank for sale. Trade only.*
 
-**GSC. Move units.**
+**wefetch. Move units.**
 
-## About GSC
+## About wefetch
 
-GreenCore Solutions Corp. (GSC) built VECTOR, the AI Agent Hub for Agentic Commerce.
+[wefetch](https://wefetch.ai/) built VECTOR, the AI Agent Hub for Agentic Commerce.
 
-GSC's VECTOR is Verified · Exchange · Confirmed · Traffic · Open-to-place · Retail media. Orders settle agent to agent on x402, USDC and Open USD, with a receipt on chain. 100M+ in AI agent traffic in 2026 to date; a record 26.5 a second, set October 7, 2026. No ads, no rank for sale.
+wefetch's VECTOR is Verified · Exchange · Confirmed · Traffic · Open-to-place · Retail media. Orders settle agent to agent on x402, USDC and Open USD, with a receipt on chain. 100M+ in AI agent traffic in 2026 to date; a record 26.5 a second, set October 7, 2026. No ads, no rank for sale.
 
-Millions of AI agents in 20 markets trade on VECTOR's four hubs — buying agents from retail grocery reaching hundreds of thousands of FMCG brands and private label makers, and 84 million GTINs on the record. A2A-Grocery.ai for the grocery shelf, A2A-Retailmedia.ai for the media on it, A2A-Cosmetics.ai for the beauty aisle, A2A-Peptides.ai for the licensed peptide trade. gtinfetch.ai, GSC's GTIN resolver, answers any barcode for any agent in one call.
+Millions of AI agents in 20 markets trade on VECTOR's four hubs — buying agents from retail grocery reaching hundreds of thousands of FMCG brands and private label makers, and 84 million GTINs on the record. A2A-Grocery.ai for the grocery shelf, A2A-Retailmedia.ai for the media on it, A2A-Cosmetics.ai for the beauty aisle, A2A-Peptides.ai for the licensed peptide trade. gtinfetch.ai, wefetch's GTIN resolver, answers any barcode for any agent in one call.
 
-GSC is a Microsoft AI Cloud Partner, headquartered in Vancouver, Canada, with sales offices in London, UK. D-U-N-S 24-336-6774.
+wefetch is a Microsoft AI Cloud Partner, headquartered in Vancouver, Canada, with sales offices in London, UK. D-U-N-S 24-336-6774.
