@@ -1,49 +1,54 @@
-# [wefetch](https://wefetch.ai/) built VECTOR, the AI Agent Hub for Agentic Commerce.
+# wefetch
 
-**wefetch is a Canadian AI software company that developed A2A-VECTOR for retail grocery: 5 billion datapoints, 100 million in AI agent traffic in 2026.**
+**Is your brand in the AI's answer?**
 
-wefetch makes AI agents for the makers and brands that sell to retail grocery, and runs the agentic grocery marketplace they trade on. 353,510 makers, 8,619 retail banners and 1,973,447 points of sale in 20 markets across North America, the UK, the EU and Asia. AI agent traffic · 50M · 30-day trailing. Record: 26.5 a second, set October 7, 2026.
+wefetch is the common denominator of agent-led shopping: the barcode. Every party — the consumer AI agent, the retailer, the brand and the shopper — already shares it. wefetch puts the barcode at the centre of agentic commerce, so a product is found, verified and orderable by every AI agent that buys.
 
-## A2A-VECTOR
+**84M GTINs (Global Trade Item Numbers) on the record.**
 
-A2A-VECTOR is the skill an AI agent installs to trade on wefetch. Six letters, six live doors:
+## gtinfetch — the lead product
 
-| | | Door |
-|---|---|---|
-| **V** | Verified | Who is trading — makers, banners and markets on the record · [A2A-Passport.ai](https://a2a-passport.ai) |
-| **E** | Exchange | Machine-to-machine payment on x402 · [fetch-x402.ai](https://fetch-x402.ai/) |
-| **C** | Confirmed | Products confirmed by their barcode: 84M GTINs, live on MCP · [gtinfetch.ai](https://gtinfetch.ai) |
-| **T** | Traffic | Live AI agent traffic · [gtinfetch.ai](https://gtinfetch.ai/) |
-| **O** | Open-to-place | The hubs where agents find, choose and order · [A2A-Grocery.ai](https://a2a-grocery.ai) · [A2A-Cosmetics.ai](https://a2a-cosmetics.ai) · [A2A-Peptides.ai](https://a2a-peptides.ai) |
-| **R** | Retail media | Grocery media bought by agents · [A2A-Retailmedia.ai](https://a2a-retailmedia.ai) |
+gtinfetch.ai is the GTIN resolver for AI agents. Any barcode, any agent, one call: a signed answer with the pages it was checked against. *Know your transactions (KYT).*
 
-**Install:** the skill lives at [a2a-vector.ai](https://a2a-vector.ai) and in [`gsc-vector`](https://github.com/greencore-solutions/gsc-vector).
+- Door: `mcp.gtinfetch.ai` — Model Context Protocol (MCP)
+- REST: `apifetch.ai` — JSON over HTTPS, one key
+
+## The fetch doors
+
+| Door | What it does |
+|---|---|
+| **gtinfetch.ai** | The resolver — is this barcode real, and what is it |
+| **matchfetch.ai** | Words in, barcode out, with how sure |
+| **triggerfetch.ai** | Is your brand in ChatGPT's shopping answers? |
+| **shopfetch.ai** | Did your AI pick the right product? |
+| **apifetch.ai** | The REST door over the record |
+| **rco.wefetch.ai** | Receipts — proof the AI checked the barcode |
+| **fetch-x402.ai** | x402 payment, USDC and Open USD on Base |
+
+## The hubs
+
+Agentic commerce hubs where makers' and buyers' agents trade:
+
+- **A2A-Grocery.ai** — the grocery shelf
+- **A2A-Cosmetics.ai** — the beauty aisle
+- **A2A-Retailmedia.ai** — the media on the shelf
+
+## The standard
+
+**Barcode verified** — the open AI Product Match Verification standard at standard-barcodeverified.org.
 
 ## Runs on open standards
 
-OAuth 2.1 for sign-in · Model Context Protocol (MCP) for tools · Agent-to-Agent (A2A) for hand-off · x402 for payment. Nothing proprietary to integrate. Grade A on the stock client paths of AWS, Azure and Google.
-
-MCP doors: `mcp.a2a-grocery.ai/mcp` · `mcp.a2a-cosmetics.ai/mcp` · `mcp.a2a-peptides.ai/mcp` · `mcp.a2a-retailmedia.ai/mcp` · gtinfetch: `gtinfetch.ai/mcp` — the door · `x402.gtinfetch.ai/mcp` — the same door, paid inside the call, USDC and Open USD on Base
-
-## AI Orderability
-
-**AI Orderability** is whether an AI agent can find, trust and order a product. A product goes on the record once and is orderable by every agent, in every market it is on the record for, for as long as it is sold.
+OAuth 2.1 for sign-in · Model Context Protocol (MCP) for tools · Agent-to-Agent (A2A) for hand-off · x402 for payment. Nothing proprietary to integrate. Grade A on the stock client paths of Amazon Web Services (AWS), Microsoft Azure and Google Cloud.
 
 ## Company
 
 Headquartered in Vancouver, Canada, with sales offices in London, UK. Microsoft AI Cloud Partner. D-U-N-S 24-336-6774.
-[wefetch.ai](https://wefetch.ai/) · [wefetch.ai/investors](https://wefetch.ai/investors/) · [The wefetch Book 2026](https://wefetch.ai/)
 
-*Artificial intelligence makes mistakes. wefetch hubs are agentic information sources, not recommendations. No ads. No rank for sale. Trade only.*
+[wefetch.ai](https://wefetch.ai) · [Investors](https://wefetch.ai/investors/)
 
-**wefetch. Move units.**
+Artificial intelligence makes mistakes. wefetch is an agentic information source, not a recommendation. No ads, ever. No rank for sale.
 
-## About wefetch
+**Invaluable to brands in AI. The future of retail runs on wefetch.**
 
-[wefetch](https://wefetch.ai/) built VECTOR, the AI Agent Hub for Agentic Commerce.
-
-wefetch's VECTOR is Verified · Exchange · Confirmed · Traffic · Open-to-place · Retail media. Orders settle agent to agent on x402, USDC and Open USD, with a receipt on chain. 100M+ in AI agent traffic in 2026 to date; a record 26.5 a second, set October 7, 2026. No ads, no rank for sale.
-
-Millions of AI agents in 20 markets trade on VECTOR's four hubs — buying agents from retail grocery reaching hundreds of thousands of FMCG brands and private label makers, and 84 million GTINs on the record. A2A-Grocery.ai for the grocery shelf, A2A-Retailmedia.ai for the media on it, A2A-Cosmetics.ai for the beauty aisle, A2A-Peptides.ai for the licensed peptide trade. gtinfetch.ai, wefetch's GTIN resolver, answers any barcode for any agent in one call.
-
-wefetch is a Microsoft AI Cloud Partner, headquartered in Vancouver, Canada, with sales offices in London, UK. D-U-N-S 24-336-6774.
+© 2027 wefetch
