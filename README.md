@@ -2,7 +2,7 @@
 
 **Is your brand in the AI's answer?**
 
-The AI agentic shopping engine. The AI answers with four brands. wefetch tells you whether yours is one of them, and checks the shopper gets the right product.
+wefetch is the AI agentic shopping barcode engine — 84 million GTINs, for every consumer AI agent that buys. The AI answers with four brands. wefetch tells you whether yours is one of them, and checks the shopper gets the right product.
 
 found · verified · orderable
 
